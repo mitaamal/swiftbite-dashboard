@@ -10,8 +10,5 @@ Dashboard interaktif untuk menganalisis performa SwiftBite pada Q1 2026 (Jan-Mar
 - BQ 4: Sentimen pelanggan & komplain
 - Filter periode, restoran, dan kategori menu
 
-## Demo
-https://mitaamal.github.io/swiftbite-dashboard/
-
 ## Analis
 Mita Amaliyatul Hayat
